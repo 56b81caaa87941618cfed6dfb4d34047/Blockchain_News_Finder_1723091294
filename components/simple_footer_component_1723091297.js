@@ -16,7 +16,8 @@ Vue.component("simple_footer_component_1723091297", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 BlockchainScout. Discover the latest in blockchain technology.
-                    </div>
+                        © 2023 BlockchainScout. Discover the latest in blockchain technology.
+                        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600">Hello World</button>
                 </div>
             </div>
         </footer> 
